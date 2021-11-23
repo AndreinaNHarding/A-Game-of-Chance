@@ -7,3 +7,5 @@
  If the sum is 2, 3 or 12 on the first roll, player loses(Craps!)
  If the sum is 2, 3 or 12 on the first roll, the sum becomes the point
  The game ends when the player rolls a seven (loses) or roll the point value (wins)
+
+ Practice simulation of Python by Andreina Nunez
